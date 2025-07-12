@@ -37,6 +37,4 @@ This project predicts housing prices using a cleaned dataset and a linear regres
 ---
 
 ## 📈 Sample Results
-<img width="421" height="19" alt="image" src="https://github.com/user-attachments/assets/fc2ec3ca-cdd9-4954-b64b-ed06366232e5" />
-
-<img width="214" height="479" alt="image" src="https://github.com/user-attachments/assets/1c72b7ff-09b6-4a83-8a06-2f7b6d6dc2f0" />
+<img width="428" height="486" alt="image" src="https://github.com/user-attachments/assets/7b620d94-1bcf-4185-b222-d4040e15c3a3" />
